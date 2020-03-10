@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookish", "Bookish.csproj", "{C74F6D85-5A83-4554-8CF4-56167133B23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74F6D85-5A83-4554-8CF4-56167133B23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74F6D85-5A83-4554-8CF4-56167133B23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74F6D85-5A83-4554-8CF4-56167133B23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74F6D85-5A83-4554-8CF4-56167133B23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
