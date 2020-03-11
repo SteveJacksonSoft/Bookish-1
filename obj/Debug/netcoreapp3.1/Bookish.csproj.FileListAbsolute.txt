@@ -33,3 +33,6 @@ C:\Training\Bookish\obj\Debug\netcoreapp3.1\Bookish.Views.pdb
 C:\Training\Bookish\obj\Debug\netcoreapp3.1\Bookish.dll
 C:\Training\Bookish\obj\Debug\netcoreapp3.1\Bookish.pdb
 C:\Training\Bookish\obj\Debug\netcoreapp3.1\Bookish.csproj.CopyComplete
+C:\Training\Bookish\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Training\Bookish\obj\Debug\netcoreapp3.1\Razor\Pages\Library\Index.cshtml.g.cs
+C:\Training\Bookish\obj\Debug\netcoreapp3.1\Razor\Pages\Library\Privacy.cshtml.g.cs
