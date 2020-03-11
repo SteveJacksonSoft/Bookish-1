@@ -36,3 +36,9 @@ C:\Training\Bookish\obj\Debug\netcoreapp3.1\Bookish.csproj.CopyComplete
 C:\Training\Bookish\bin\Debug\netcoreapp3.1\Dapper.dll
 C:\Training\Bookish\obj\Debug\netcoreapp3.1\Razor\Pages\Library\Index.cshtml.g.cs
 C:\Training\Bookish\obj\Debug\netcoreapp3.1\Razor\Pages\Library\Privacy.cshtml.g.cs
+C:\Training\Bookish\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Training\Bookish\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Training\Bookish\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Training\Bookish\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Training\Bookish\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Training\Bookish\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
