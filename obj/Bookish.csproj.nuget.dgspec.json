@@ -24,7 +24,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Training\\Bookish\\Bookish.csproj": {
+                "projectPath": "C:\\Training\\Bookish\\Bookish.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -39,6 +43,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.30, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.0.0-preview1.20021.1, )"
             }
           },
           "imports": [

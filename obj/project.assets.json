@@ -102,6 +102,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Bookish >= 1.0.0",
       "Dapper >= 2.0.30"
     ]
   },
@@ -128,7 +129,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Training\\Bookish\\Bookish.csproj": {
+              "projectPath": "C:\\Training\\Bookish\\Bookish.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -166,5 +171,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  Bookish -> Bookish.",
+      "libraryId": "Bookish",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

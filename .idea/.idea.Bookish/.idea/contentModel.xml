@@ -11,6 +11,9 @@
         <e p="HomeController.cs" t="Include" />
         <e p="LibraryController.cs" t="Include" />
       </e>
+      <e p="Database" t="Include">
+        <e p="Database.cs" t="Include" />
+      </e>
       <e p="library_database.sql" t="Include" />
       <e p="Models" t="Include">
         <e p="ErrorViewModel.cs" t="Include" />

@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Training\\Bookish\\Bookish.csproj": {
+            "projectPath": "C:\\Training\\Bookish\\Bookish.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
